@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Soon..](https://your-solution-url.com)
-- Live Site URL: [Soon..](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/htmlcssjs-article-preview-component-_67PG-DqWo)
+- Live Site URL: [Github Page](https://b4khtiar.github.io/article-preview-component-yb/)
 
 ### Built with
 
@@ -37,7 +37,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- Stylus
+- Stylus preprocessor
 
 ## Author
 
